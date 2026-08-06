@@ -1,0 +1,25 @@
+{
+  "name": "StudySync - Smart Study Planner",
+  "short_name": "StudySync",
+  "description": "Plan smart, study better, achieve more.",
+  "start_url": "/studysync/dashboard.php",
+  "scope": "/studysync/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F5F6FB",
+  "theme_color": "#6C63FF",
+  "icons": [
+    {
+      "src": "/studysync/assets/img/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/studysync/assets/img/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
